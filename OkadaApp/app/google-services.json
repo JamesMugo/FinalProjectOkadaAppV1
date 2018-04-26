@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448832404989",
+    "firebase_url": "https://okadeliapp.firebaseio.com",
+    "project_id": "okadeliapp",
+    "storage_bucket": "okadeliapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448832404989:android:b5b988d033576e2e",
+        "android_client_info": {
+          "package_name": "www.james.com.okadaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448832404989-udma78i4l17l0g7eihpunl605gu6iir5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGuwGIn5KgvA_Lu9ur_3sC-T6wLDbXII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
